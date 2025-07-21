@@ -5,6 +5,8 @@ I enjoy building impactful projects that combine AI, computer vision, and user-c
 
 📌 Current focus: Advancing my skills in full-stack development, deep learning, and deploying production-ready applications.
 
+📚 Always learning, always building.
+
 🔗 Let’s connect and collaborate on meaningful tech!
 <!--
 **isshhh9/isshhh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
