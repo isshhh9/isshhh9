@@ -1,5 +1,11 @@
 ## Hi there 👋
+I’m a third-year Information Technology undergraduate at Delhi Technological University with a strong interest in machine learning, frontend development, and intelligent autonomous systems.
 
+I enjoy building impactful projects that combine AI, computer vision, and user-centric design—translating complex ideas into real-world solutions.
+
+📌 Current focus: Advancing my skills in full-stack development, deep learning, and deploying production-ready applications.
+
+🔗 Let’s connect and collaborate on meaningful tech!
 <!--
 **isshhh9/isshhh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
