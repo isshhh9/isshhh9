@@ -1,9 +1,9 @@
 ## Hi there 👋
-<h1 align="center">Ishani Nirala</h1>
+<h1 align="center" style="color:#FF69B4;">Ishani Nirala</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Frontend+Developer.;Proficient+in+C%2B%2B;Machine+Learner+%26+Deep+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Frontend+Developer.;Machine+Learner+%26+Deep+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
