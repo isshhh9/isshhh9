@@ -1,11 +1,10 @@
 ## Hi there 👋
-<h1 align="center" style="color:#FF69B4;">Ishani Nirala</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Frontend+Developer.;Machine+Learner+%26+Deep+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Ishani+Nirala;Frontend+Developer.;Machine+Learner+%26+Deep+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 I’m a third-year Information Technology undergraduate at Delhi Technological University with a strong interest in machine learning, frontend development, and intelligent autonomous systems.
