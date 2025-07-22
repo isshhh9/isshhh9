@@ -28,11 +28,10 @@ I enjoy building impactful projects that combine AI, computer vision, and user-c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-## 📊 GitHub Stats & Most Used Languages
+## 📊 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=isshhh9&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshhh9&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshhh9&layout=compact&theme=dark&bg_color=000000&border_color=444" />
 </p>
 <!--
 **isshhh9/isshhh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
