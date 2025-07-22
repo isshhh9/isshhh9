@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79500&center=true&vCenter=true&width=435&lines=Frontend+Developer.;Proficient+in+C%2B%2B.;Machine+Learning+%26+Deep+Learning+Enthusiast.;Always+learning+new+things.)](https://git.io/typing-svg)
+
 I’m a third-year Information Technology undergraduate at Delhi Technological University with a strong interest in machine learning, frontend development, and intelligent autonomous systems.
 
 I enjoy building impactful projects that combine AI, computer vision, and user-centric design—translating complex ideas into real-world solutions.
