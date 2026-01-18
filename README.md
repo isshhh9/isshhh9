@@ -8,7 +8,7 @@
 </p>
 
 
-I’m a third-year Information Technology undergraduate at Delhi Technological University with a strong interest in machine learning, frontend development, and intelligent autonomous systems.
+I’m a Information Technology graduate at Delhi Technological University with a strong interest in machine learning, frontend development, and intelligent autonomous systems.
 
 I enjoy building impactful projects that combine AI, computer vision, and user-centric design—translating complex ideas into real-world solutions.
 
